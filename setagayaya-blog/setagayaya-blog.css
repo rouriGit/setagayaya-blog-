@@ -49,10 +49,10 @@ grid
     .grid-col-2 > .grid-item,
     .grid-col-3 > .grid-item,
     .grid-col-4 > .grid-item {
-        width: 100%;
+        width: 50%;
         margin: 20px 0;
+        float: left;
     }
-
 }
 
 /* 
